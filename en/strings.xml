@@ -84,4 +84,11 @@ Let me know what you think! :-)</string>
   <string name="drills">Skill Building</string>
   <string name="arcade">Time Challenge</string>
 
+  <!-- iTunes Writeup -->
+  <string name="itunes_desc">Number Pyramid is a math game focusing on addition and subtraction skills.  Using the information from the blocks that you know, you must calculate the values for the rest of the blocks that make up the pyramid.
+
+The target audience for this game is children in grades K to 4.  There are predefined levels for each of these grades, along with manual controls if you want to fine tune the game difficulty.</string>
+  <string name="itunes_desktop_extra">The popular iPhone/iPad game is now available for the desktop!</string>
+  <string name="itunes_whatsnew"></string>
+
 </resources>
