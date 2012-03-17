@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- gameview.js -->
+  <string name="pyramid_solved">Pyramid Solved</string>
+  <string name="nice_work_hints_off">Nice work!</string>
+  <string name="nice_work_hints_on">Nice work, you finished the pyramid without using any hints!</string>
+  <string name="finished_game_with_1_hint">Nice work, you only needed one hint to finish the pyramid!</string>
+  <string name="finished_game_with_n_hints">Nice work, you only needed %d hints to finish the pyramid!</string>
+  <string name="game_over">Game over</string>
+  <string name="level_complete">Level %d finished</string>
+  <string name="next_level">Next Level</string>
+
+  <string name="close">Close</string>
+  <string name="cancel">Cancel</string>
+  <string name="new_game">New Game</string>
+  <string name="another_game">Play Another</string>
+  <string name="are_you_sure">Are you sure?</string>
+  <string name="check_answers">Check Answers</string>
+  <string name="feedback_looks_good">Looking good!</string>
+  <string name="feedback_has_one_problem">There is an error in this box.</string>
+  <string name="feedback_has_problems">There are errors in some of the boxes.</string>
+  <string name="hint">Hint</string>
+  <string name="welcome">Welcome to Number Pyramid</string>
+  <string name="welcome_msg">The goal of the game is to fill in all boxes in the pyramid. The number that goes in each box is built by adding the two boxes below, or by subtracting the box above from the box beside.</string>
+
+  <!-- settingsview.js -->
+  <string name="pyramid_height">Pyramid height</string>
+  <string name="minimum_number">Smallest base number</string>
+  <string name="maximum_number">Biggest base number</string>
+  <string name="addition">Addition</string>
+  <string name="subtraction">Subtraction</string>
+  <string name="negatives">Negative numbers</string>
+  <string name="show_hints">Hints</string>
+  <string name="sound_settings">Sound Settings</string>
+  <string name="sound">Sound</string>
+  <string name="show_timer">Show timer</string>
+  <string name="operations">Math operations</string>
+  <string name="operator_plus">Add</string>
+  <string name="operator_minus">Subtract</string>
+  <string name="operator_both">Mix</string>
+
+  <string name="grade_level">Grade</string>
+  <string name="grade_k">K</string>
+  <string name="grade_1">1</string>
+  <string name="grade_2">2</string>
+  <string name="grade_3">3</string>
+  <string name="grade_4">4</string>
+
+  <string name="learning_objectives">Learning objectives</string>
+  <string name="grade_k_objectives">Add numbers with answers from 2 to 10.</string>
+  <string name="grade_1_objectives">Add and subtract numbers with answers from 1 to 20.</string>
+  <string name="grade_2_objectives">Add and subtract numbers with answers from 0 to 100.</string>
+  <string name="grade_3_objectives">Add and subtract numbers with answers from 0 to 1000.</string>
+  <string name="grade_4_objectives">Add and subtract numbers with answers from 0 to 10000.</string>
+
+  <string name="challenge_level">Level</string>
+  <string name="level_1">Easy</string>
+  <string name="level_2">Normal</string>
+  <string name="level_3">Hard</string>
+  <string name="level_4">Very Hard</string>
+
+  <string name="about">About</string>
+  <string name="click_to_rate">Like this app? Click to rate it!</string>
+  <string name="share_via_email">Email this app to a friend</string>
+  <string name="number_pyramid">Number Pyramid</string>
+  <string name="email_subject">Math game for kids</string>
+  <string name="email_body">Hi there,
+Check out this cool math game we've been playing. Here is the link: %s
+Let me know what you think! :-)</string>
+
+  <!-- hintview.js -->
+  <string name="hint_more">More</string>
+  <string name="hint_done">Done</string>
+  <string name="hint_try_this_box">This box can be answered.</string>
+  <string name="hint_error_in_this_box">This answer is incorrect.</string>
+  <string name="hint_this_box_correct">This answer is correct.</string>
+  <string name="hint_equation_is">The answer for this box is\n%s.</string>
+  <string name="hint_error_nearby">There is an error in one of the nearby boxes.</string>
+  <string name="hint_box_cant_be_answered">This box can't be answered yet, try working on another one.</string>
+  <string name="no_hints">No hints available.</string>
+  <string name="hint_errors_in_these_boxes">There are errors in these boxes.</string>
+
+  <!-- LandingView.js -->
+  <string name="drills">Skill Building</string>
+  <string name="arcade">Time Challenge</string>
+
+</resources>
