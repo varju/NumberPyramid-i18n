@@ -91,4 +91,11 @@ The target audience for this game is children in grades K to 4.  There are prede
   <string name="itunes_desktop_extra">The popular iPhone/iPad game is now available for the desktop!</string>
   <string name="itunes_whatsnew"></string>
 
+  <!-- Desktop-specific phrases -->
+  <string name="full_screen">Full screen</string>
+  <string name="out_of_time">Sorry, you are out of time.</string>
+  <string name="ok">OK</string>
+  <string name="on">On</string>
+  <string name="off">Off</string>
+
 </resources>
