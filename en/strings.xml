@@ -75,7 +75,7 @@ Let me know what you think! :-)</string>
   <string name="hint_try_this_box">This box can be answered.</string>
   <string name="hint_error_in_this_box">This answer is incorrect.</string>
   <string name="hint_this_box_correct">This answer is correct.</string>
-  <string name="hint_equation_is">The answer for this box is\n%s.</string>
+  <string name="hint_equation_is">The answer for this box is</string>
   <string name="hint_error_nearby">There is an error in one of the nearby boxes.</string>
   <string name="hint_box_cant_be_answered">This box can't be answered yet, try working on another one.</string>
   <string name="no_hints">No hints available.</string>
