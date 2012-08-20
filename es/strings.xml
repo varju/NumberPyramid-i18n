@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- gameview.js -->
+  <string name="pyramid_solved">Pirámide resuelta</string>
+  <string name="nice_work_hints_off">¡Bien hecho!</string>
+  <string name="nice_work_hints_on">¡Fantástico! ¡Has resuelto la pirámide sin usar ninguna pista!</string>
+  <string name="finished_game_with_1_hint">¡Genial! Solo has necesitado una pista para resolver la pirámide.</string>
+  <string name="finished_game_with_n_hints">¡Muy bien! Solo te han hecho falta %d pistas para resolver la pirámide.</string>
+  <string name="game_over">Fin de la partida</string>
+  <string name="level_complete">Nivel superado</string>
+  <string name="nice_work_level">¡Bien hecho! Has superado el nivel %d.</string>
+  <string name="next_level">Siguiente nivel</string>
+
+  <string name="close">Cerrar</string>
+  <string name="cancel">Cancelar</string>
+  <string name="new_game">Nueva partida</string>
+  <string name="another_game">Jugar a otro juego</string>
+  <string name="are_you_sure">¿Estás seguro?</string>
+  <string name="check_answers">Comprobar las respuestas</string>
+  <string name="feedback_looks_good">¡Tiene buena pinta!</string>
+  <string name="feedback_has_one_problem">En esta caja hay un error.</string>
+  <string name="feedback_has_problems">Hay errores en algunas cajas.</string>
+  <string name="hint">Pista</string>
+  <string name="welcome">¡Hola! Esto es Number Pyramid</string>
+  <string name="welcome_msg">El objetivo de este juego es rellenar todas las cajas de la pirámide. Para descubrir qué número va en cada caja, debes sumar las dos cajas de abajo o restar la caja de arriba a la caja de al lado.</string>
+
+  <!-- settingsview.js -->
+  <string name="pyramid_height">Altura de la pirámide</string>
+  <string name="minimum_number">Número más bajo de la base</string>
+  <string name="maximum_number">Número más alto de la base</string>
+  <string name="addition">Sumar</string>
+  <string name="subtraction">Restar</string>
+  <string name="negatives">Números negativos</string>
+  <string name="show_hints">Pistas</string>
+  <string name="sound_settings">Ajustes de sonido</string>
+  <string name="sound">Sonido</string>
+  <string name="show_timer">Mostrar cronómetro</string>
+  <string name="operations">Operaciones matemáticas</string>
+  <string name="operator_plus">Suma</string>
+  <string name="operator_minus">Resta</string>
+  <string name="operator_both">Mezcla</string>
+
+  <string name="grade_level">Curso</string>
+  <string name="grade_k">P5</string>
+  <string name="grade_1">1º de EP</string>
+  <string name="grade_2">2º de EP</string>
+  <string name="grade_3">3º de EP</string>
+  <string name="grade_4">4º de EP</string>
+
+  <string name="learning_objectives">Objetivos didácticos</string>
+  <string name="grade_k_objectives">Haz sumas con resultados del 2 al 10.</string>
+  <string name="grade_1_objectives">Haz sumas y restas con resultados del 1 al 20.</string>
+  <string name="grade_2_objectives">Haz sumas y restas con resultados del 0 al 100.</string>
+  <string name="grade_3_objectives">Haz sumas y restas con resultados del 0 al 1.000.</string>
+  <string name="grade_4_objectives">Haz sumas y restas con resultados del 0 al 10.000.</string>
+
+  <string name="challenge_level">Nivel</string>
+  <string name="level_1">Fácil</string>
+  <string name="level_2">Normal</string>
+  <string name="level_3">Difícil</string>
+  <string name="level_4">Muy difícil</string>
+
+  <string name="about">Acerca de</string>
+  <string name="click_to_rate">¿Te gusta esta aplicación? ¡Haz clic para darle una puntuación!</string>
+  <string name="share_via_email">Recomendar esta aplicación por correo</string>
+  <string name="number_pyramid">Number Pyramid</string>
+  <string name="email_subject">Juego de matemáticas para niños</string>
+  <string name="email_body">¡Hola!
+Hemos estado jugando a un juego de matemáticas muy divertido. Aquí tienes el enlace: %s. 
+¡Échale un vistazo y cuéntame qué te ha parecido! :-)</string>
+
+  <!-- hintview.js -->
+  <string name="hint_more">Más</string>
+  <string name="hint_done">Hecho</string>
+  <string name="hint_try_this_box">Esta caja se puede resolver</string>
+  <string name="hint_error_in_this_box">Esta respuesta no es correcta.</string>
+  <string name="hint_this_box_correct">Esta respuesta es correcta.</string>
+  <string name="hint_equation_is">La solución de esta caja es</string>
+  <string name="hint_error_nearby">Hay un error en una de las cajas cercanas.</string>
+  <string name="hint_box_cant_be_answered">Aún no se puede resolver esta caja. Intenta resolver otra.</string>
+  <string name="no_hints">No hay pistas disponibles.</string>
+  <string name="hint_errors_in_these_boxes">En estas cajas hay errores.</string>
+
+  <!-- LandingView.js -->
+  <string name="drills">Construir habilidades</string>
+  <string name="arcade">Reto contrarreloj</string>
+
+  <!-- iTunes Writeup -->
+  <string name="itunes_desc">Number Pyramid es un juego matemático que se centra en las competencias de suma y resta. Usando la información de los bloques que ya conoces, deberás calcular los valores del resto de bloques que forman la pirámide.
+Este juego está dirigido a niños de entre Educación Infantil y 4º curso de Educación Primaria. Hay niveles predefinidos para cada curso, así como otros elementos personalizables que permiten modificar la dificultad del juego.</string>
+  <string name="itunes_desktop_extra">¡El famoso juego para iPhone y iPad ahora también está disponible para escritorio!</string>
+  <string name="itunes_whatsnew"></string>
+
+  <!-- Desktop-specific phrases -->
+  <string name="full_screen">Pantalla completa</string>
+  <string name="out_of_time">Lo sentimos, se ha acabado el tiempo.</string>
+  <string name="ok">Aceptar</string>
+  <string name="on">Sí</string>
+  <string name="off">No</string>
+  <string name="settings">Ajustes</string>
+  <string name="home">Inicio</string>
+
+</resources>
