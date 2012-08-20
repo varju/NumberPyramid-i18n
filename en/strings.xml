@@ -89,8 +89,9 @@ Let me know what you think! :-)</string>
   <string name="itunes_desc">Number Pyramid is a math game focusing on addition and subtraction skills.  Using the information from the blocks that you know, you must calculate the values for the rest of the blocks that make up the pyramid.
 
 The target audience for this game is children in grades K to 4.  There are predefined levels for each of these grades, along with manual controls if you want to fine tune the game difficulty.</string>
+  <string name="itunes_desc_languages">Available in English and Spanish.  Spanish translation provided by judittur.  Contribute your own translation at http://www.getlocalization.com/NumberPyramid/</string>
   <string name="itunes_desktop_extra">The popular iPhone/iPad game is now available for the desktop!</string>
-  <string name="itunes_whatsnew"></string>
+  <string name="itunes_whatsnew">Updated SmarTots API.  Added a Spanish translation.</string>
 
   <!-- Desktop-specific phrases -->
   <string name="full_screen">Full screen</string>
