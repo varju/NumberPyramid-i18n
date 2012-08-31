@@ -88,7 +88,7 @@ Hemos estado jugando a un juego de matemáticas muy divertido. Aquí tienes el e
   <!-- iTunes Writeup -->
   <string name="itunes_desc">Number Pyramid es un juego matemático que se centra en las competencias de suma y resta. Usando la información de los bloques que ya conoces, deberás calcular los valores del resto de bloques que forman la pirámide.
 Este juego está dirigido a niños de entre Educación Infantil y 4º curso de Educación Primaria. Hay niveles predefinidos para cada curso, así como otros elementos personalizables que permiten modificar la dificultad del juego.</string>
-  <string name="itunes_desc_languages">Disponible en Inglés y Español. Traducción al español realizada por judittur. Contribuya con su propia traducción en http://www.getlocalization.com/NumberPyramid/</string>
+  <string name="itunes_desc_languages">Disponible en inglés y español. Traducción al español realizada por Judit Tur. Contribuya con su propia traducción en http://www.getlocalization.com/NumberPyramid/</string>
   <string name="itunes_desktop_extra">¡El famoso juego para iPhone y iPad ahora también está disponible para escritorio!</string>
   <string name="itunes_whatsnew">Actualizado SmarTots API. Se ha añadido una traducción al español.</string>
 
