@@ -16,7 +16,7 @@
   <string name="new_game">Nueva partida</string>
   <string name="another_game">Otro juego</string>
   <string name="are_you_sure">¿Estás seguro?</string>
-  <string name="check_answers">Comprobar las respuestas</string>
+  <string name="check_answers">Comprobar</string>
   <string name="feedback_looks_good">¡Tiene buena pinta!</string>
   <string name="feedback_has_one_problem">En esta caja hay un error.</string>
   <string name="feedback_has_problems">Hay errores en algunas cajas.</string>
@@ -42,10 +42,10 @@
 
   <string name="grade_level">Curso</string>
   <string name="grade_k">P5</string>
-  <string name="grade_1">1º de EP</string>
-  <string name="grade_2">2º de EP</string>
-  <string name="grade_3">3º de EP</string>
-  <string name="grade_4">4º de EP</string>
+  <string name="grade_1">1º</string>
+  <string name="grade_2">2º</string>
+  <string name="grade_3">3º</string>
+  <string name="grade_4">4º</string>
 
   <string name="learning_objectives">Objetivos didácticos</string>
   <string name="grade_k_objectives">Haz sumas con resultados del 2 al 10.</string>
@@ -87,10 +87,12 @@ Hemos estado jugando a un juego de matemáticas muy divertido. Aquí tienes el e
 
   <!-- iTunes Writeup -->
   <string name="itunes_desc">Number Pyramid es un juego matemático que se centra en las competencias de suma y resta. Usando la información de los bloques que ya conoces, deberás calcular los valores del resto de bloques que forman la pirámide.
+
 Este juego está dirigido a niños de entre Educación Infantil y 4º curso de Educación Primaria. Hay niveles predefinidos para cada curso, así como otros elementos personalizables que permiten modificar la dificultad del juego.</string>
   <string name="itunes_desc_languages">Disponible en inglés y español. Traducción al español realizada por Judit Tur. Contribuya con su propia traducción en http://www.getlocalization.com/NumberPyramid/</string>
   <string name="itunes_desktop_extra">¡El famoso juego para iPhone y iPad ahora también está disponible para escritorio!</string>
   <string name="itunes_whatsnew">Actualizado SmarTots API. Se ha añadido una traducción al español.</string>
+  <string name="itunes_keywords">matemáticas,suma,resta</string>
 
   <!-- Desktop-specific phrases -->
   <string name="full_screen">Pantalla completa</string>
